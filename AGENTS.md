@@ -16,4 +16,4 @@ Protect these qualities:
 
 Do not add transcripts, model praise, or persuasion-by-volume to the reading path. Evidence belongs in bounded reference notes. The primary path is:
 
-`README.md` → `MANUAL.md` → `MAKING_A_MARBLE.md` → `BASE_MARBLE.md`.
+`README.md` → `Manual/MANUAL.md` → `Manual/MAKING_A_MARBLE.md` → `Manual/BASE_MARBLE.md`.

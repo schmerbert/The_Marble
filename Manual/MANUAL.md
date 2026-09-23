@@ -28,4 +28,4 @@ Read the [letter to a new Resident](02_LETTER_TO_THE_RESIDENT.md) as an address 
 
 The chapters describe both working mechanisms and a design horizon. A Hub example is identified as current when its runtime supports it; proposed Bear, Road, airlock, and homeward-synthesis behavior is labeled as intended rather than installed. A name alone creates no capability.
 
-Continue with [Making a Marble](MAKING_A_MARBLE.md), then the [Base Marble](BASE_MARBLE.md). The first gives a build sequence; the second defines the small working result and its proof. Additional rooms, inhabitants, and wider autonomy belong to advanced Marbles built after this base holds.
+Continue with [Making a Marble](MAKING_A_MARBLE.md), then the [Base Marble](BASE_MARBLE.md). The first gives a build sequence; the second defines the small working result and its proof. Additional rooms, inhabitants, and wider autonomy belong to [advanced Marbles](../Advanced/ADVANCED_MARBLES.md) built after this base holds.

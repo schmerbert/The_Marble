@@ -28,11 +28,11 @@ The base rule travels with every expansion: preserve exact sources, label derive
 
 ## Chapters
 
-1. [The Inverse](Advanced/01_INVERSE.md)
-2. [Pull Pairs](Advanced/02_PULL_PAIRS.md)
-3. [Companions](Advanced/03_COMPANIONS.md)
-4. [Animals](Advanced/04_ANIMALS.md)
-5. [The Faun](Advanced/05_THE_FAUN.md)
-6. [Windows](Advanced/06_WINDOWS.md)
-7. [Fairies](Advanced/07_FAIRIES.md)
-8. [Curiosity](Advanced/08_CURIOSITY.md)
+1. [The Inverse](01_INVERSE.md)
+2. [Pull Pairs](02_PULL_PAIRS.md)
+3. [Companions](03_COMPANIONS.md)
+4. [Animals](04_ANIMALS.md)
+5. [The Faun](05_THE_FAUN.md)
+6. [Windows](06_WINDOWS.md)
+7. [Fairies](07_FAIRIES.md)
+8. [Curiosity](08_CURIOSITY.md)

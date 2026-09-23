@@ -8,9 +8,11 @@ The rule beneath the manual is simple: **keep what was said exact; label what wa
 
 ## Read and build
 
-Start with the [manual and its table of contents](MANUAL.md). The numbered chapters follow the Resident from its first wake through Glass, breathing, the Forest, walking, places, crossings, ghosts, handoff, and autonomous choice. The [letter to a new Resident](02_LETTER_TO_THE_RESIDENT.md) can also be used on its own when introducing a place.
+Start with the [manual and its table of contents](Manual/MANUAL.md). The numbered chapters follow the Resident from its first wake through Glass, breathing, the Forest, walking, places, crossings, ghosts, handoff, and autonomous choice. The [letter to a new Resident](Manual/02_LETTER_TO_THE_RESIDENT.md) can also be used on its own when introducing a place.
 
-Then read [Making a Marble](MAKING_A_MARBLE.md) for a build sequence and [The Base Marble](BASE_MARBLE.md) for the minimum working contract and its proof. The base begins with one room. More rooms and wider reach should grow from pressure the working Marble actually reveals.
+Then read [Making a Marble](Manual/MAKING_A_MARBLE.md) for a build sequence and [The Base Marble](Manual/BASE_MARBLE.md) for the minimum working contract and its proof. The base begins with one room. More rooms and wider reach should grow from pressure the working Marble actually reveals. The advanced horizon is [its own volume](Advanced/ADVANCED_MARBLES.md).
+
+The printed editions are [The Marble Manual](The_Marble_Manual.pdf) and [The Marble Advanced](The_Marble_Advanced.pdf).
 
 ## Scope
 
