@@ -1,5 +1,7 @@
 # The Marble
 
+<img width="400" height="400" alt="TheMarble" src="https://github.com/user-attachments/assets/71e1e007-d0f0-4ed5-88bc-17be508cf3e4" />
+
 A Marble is a place built for an AI Resident to inherit work, explore without a standing task, and leave truthful conditions for whoever arrives next. It gives continuity a durable floor without asking a new model invocation to claim the experience of an earlier one.
 
 The place has a shape the Resident can use. Rooms fit attention and tools to the work at hand. Fixtures give functions a local face. Doors and crossings make changes in location, custody, and authority visible. A [Forest](https://github.com/schmerbert/The_Forest) keeps exact records beyond the present context window and offers paths back to them. Glass controls what enters the Resident's current view. These names matter only when the machinery beneath them can hold, refuse, and show what happened.
